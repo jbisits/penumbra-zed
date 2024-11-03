@@ -168,6 +168,11 @@
                         "font_style": null,
                         "font_weight": null
                     },
+                    "function.call": {
+                        "color": "#00A0BA",
+                        "font_style": null,
+                        "font_weight": null
+                    },
                     "keyword": {
                         "color": "#ac78bd",
                         "font_style": null,
@@ -229,7 +234,12 @@
                         "font_weight": null
                     },
                     "variable": {
-                        "color": "#ca7081",
+                        "color": "#8f8f8f",
+                        "font_style": null,
+                        "font_weight": null
+                    },
+                    "variable.member": {
+                        "color": "#CA7081",
                         "font_style": null,
                         "font_weight": null
                     },
@@ -406,6 +416,11 @@
                         "font_style": null,
                         "font_weight": null
                     },
+                    "function.call": {
+                        "color": "#00A0BA",
+                        "font_style": null,
+                        "font_weight": null
+                    },
                     "keyword": {
                         "color": "#ac78bd",
                         "font_style": null,
@@ -467,7 +482,12 @@
                         "font_weight": null
                     },
                     "variable": {
-                        "color": "#ca7081",
+                        "color": "#8f8f8f",
+                        "font_style": null,
+                        "font_weight": null
+                    },
+                    "variable.member": {
+                        "color": "#CA7081",
                         "font_style": null,
                         "font_weight": null
                     },
