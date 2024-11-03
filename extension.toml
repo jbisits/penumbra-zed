@@ -1,0 +1,7 @@
+id = "Penumbra"
+name = "My extension"
+version = "0.1.0"
+schema_version = 1
+authors = ["Josef Bisits <jbisits@gmail.com>"]
+description = "Penumbra light and dark colour themes"
+repository = "https://github.com/jbisits/penumbra-zed"
