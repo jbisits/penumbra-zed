@@ -193,13 +193,28 @@
                         "font_style": null,
                         "font_weight": null
                     },
+                    "punctuation.bracket": {
+                        "color": "#cb7459",
+                        "font_style": null,
+                        "font_weight": null
+                    },
+                    "punctuation.delimiter": {
+                        "color": "#8f8f8f",
+                        "font_style": null,
+                        "font_weight": null
+                    },
+                    "punctuation.special": {
+                        "color": "#cb7459",
+                        "font_style": null,
+                        "font_weight": null
+                    },
                     "string": {
                         "color": "#3ea57b",
                         "font_style": null,
                         "font_weight": null
                     },
                     "string.escape": {
-                        "color": "#3ea57b",
+                        "color": "#cb7459",
                         "font_style": null,
                         "font_weight": null
                     },
@@ -436,6 +451,21 @@
                         "font_style": null,
                         "font_weight": null
                     },
+                    "punctuation.bracket": {
+                        "color": "#cb7459",
+                        "font_style": null,
+                        "font_weight": null
+                    },
+                    "punctuation.delimiter": {
+                        "color": "#8f8f8f",
+                        "font_style": null,
+                        "font_weight": null
+                    },
+                    "punctuation.special": {
+                        "color": "#cb7459",
+                        "font_style": null,
+                        "font_weight": null
+                    },
                     "property": {
                         "color": "#8f8f8f",
                         "font_style": null,
@@ -447,7 +477,7 @@
                         "font_weight": null
                     },
                     "string.escape": {
-                        "color": "#3ea57b",
+                        "color": "#cb7459",
                         "font_style": null,
                         "font_weight": null
                     },
