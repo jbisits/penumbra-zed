@@ -7,12 +7,12 @@
             "name": "Penumbra Dark",
             "appearance": "dark",
             "style": {
-                "border": "#63636388",
-                "border.variant": "#63636388",
+                "border": "#636363",
+                "border.variant": "#636363",
                 "border.focused": "#00a0ba",
-                "border.selected": "#63636388",
-                "border.transparent": "#63636388",
-                "border.disabled": "#63636388",
+                "border.selected": "#636363",
+                "border.transparent": "#636363",
+                "border.disabled": "#636363",
                 "elevated_surface.background": "#24272B",
                 "surface.background": "#3E4044",
                 "background": "#303338",
@@ -61,8 +61,8 @@
                 "editor.line_number": "#636363",
                 "editor.active_line_number": "#8f8f8f",
                 "editor.invisible": null,
-                "editor.wrap_guide": "#63636388",
-                "editor.active_wrap_guide": "#63636388",
+                "editor.wrap_guide": "#636363",
+                "editor.active_wrap_guide": "#636363",
                 "editor.document_highlight.read_background": null,
                 "editor.document_highlight.write_background": null,
                 "terminal.background": "#303338",
@@ -296,7 +296,7 @@
                     "title": {
                         "color": "#00a0ba",
                         "font_style": null,
-                        "font_weight": null
+                        "font_weight": 600
                     },
                     "type": {
                         "color": "#c27d40",
@@ -497,7 +497,7 @@
                         "font_weight": null
                     },
                     "embedded": {
-                        "color": "#ca7081",
+                        "color": "#cb7459",
                         "font_style": null,
                         "font_weight": null
                     },
@@ -507,7 +507,7 @@
                         "font_weight": null
                     },
                     "emphasis.strong": {
-                        "color": "#BEBEBE",
+                        "color": "#3E4044",
                         "font_style": "italic",
                         "font_weight": null
                     },
@@ -614,7 +614,7 @@
                     "title": {
                         "color": "#00a0ba",
                         "font_style": null,
-                        "font_weight": null
+                        "font_weight": 600
                     },
                     "type": {
                         "color": "#c27d40",
